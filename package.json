@@ -29,7 +29,7 @@
     "jit-grunt": "^0.10.0",
     "lite-server": "^2.3.0",
     "node-sass": "^4.7.2",
-    "npm": "^6.11.2",
+    "npm": "^6.13.4",
     "time-grunt": "^1.4.0"
   },
   "dependencies": {
